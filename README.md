@@ -5,3 +5,6 @@ I believe many of you always use a card or pill by mistake when playing tainted 
 
 
 当有副手主动时，捡起的卡牌或胶囊会自动放到栏位二以防误用。
+
+
+创意工坊链接：https://steamcommunity.com/sharedfiles/filedetails/?id=3139822714
