@@ -1,4 +1,4 @@
-# auto-switich
+# auto-switch
 The Binding Of Isaac mod  一个以撒的结合mod
 
 I believe many of you always use a card or pill by mistake when playing tainted characters. It's a simple mod that automatically switches the card or pill you just pick up to slot 2 if your character has active item in consumable slot. Have fun! 
